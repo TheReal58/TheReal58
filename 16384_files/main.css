@@ -366,16 +366,25 @@ hr {
     box-shadow: 0 0 30px 10px rgba(169, 128, 188, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 480px) {
-      .tile.tile-4096{
+      .tile.tile-4096 {
         font-size: 15px; } }
-    .tile.tile-8192 {
+   .tile.tile-8192 {
     color: #222222;
     background: #1E90FF;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 480px) {
-      .tile.tile-8192{
+      .tile.tile-8192 {
         font-size: 15px; } }
+  .tile.tile-29 {
+    color: #f9f6f2;
+    background: #a980bc;
+    box-shadow: 0 0 30px 10px rgba(169, 128, 188, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333) }
+  .tile.tile-58 {
+    color: #222222;
+    background: #1E90FF;
+    box-shadow: 0 0 30px 10px rgba(0, 255, 255, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
+
 
 @-webkit-keyframes appear {
   0% {
